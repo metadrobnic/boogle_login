@@ -1,0 +1,91 @@
+body {
+	font-family: Arial;
+}
+
+#profilka {
+	width: 100px;
+	border-radius: 50px;
+	border: 2px solid #d9d9d9;
+	text-align: center;
+}
+
+p {
+	margin-bottom: 20px;
+	font-weight: bold;
+	color: gray;
+}
+
+button {
+	background-color: #6495ED;
+	color: white;
+	width: 173px;
+	height: 30px;
+	margin-top: 5px;
+}
+
+#gumb {
+	margin-left: auto;
+    margin-right: auto;
+}
+
+#podatki {
+	width: 173px;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.box {
+	margin-top: 50px;
+	margin-left: auto;
+    margin-right: auto;
+	border: 2px solid transparent;
+    -moz-border-image: -moz-linear-gradient(top, #ffffff 0%, #d9d9d9 100%);
+    -webkit-border-image: -webkit-linear-gradient(top, #ffffff 0%, #d9d9d9 100%);
+    border-image: linear-gradient(to bottom, #ffffff 0%, #d9d9d9 100%);
+    border-image-slice: 1;
+    border-radius: 50px;
+	width: 350px;
+
+}
+
+.footer {
+	padding-top: 10px;
+	text-align: center;
+}
+
+#header {
+	margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#input {
+	margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 173px;
+    padding-top: 20px;
+}
+
+#racun {
+	font-size: 12px;
+	text-align: right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+ul li {
+  display: inline;
+}
+
+li {
+	padding: 20px;
+}
+
+ul {
+	 position: fixed;
+   left: 0;
+    bottom: 0;
+    font-size: 15px;
+}
+
